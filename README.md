@@ -125,7 +125,7 @@ If you've already uploaded this to GitHub, follow these steps:
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/login-page-project.git
+   git clone https://github.com/WebDevIn60s/Sign-In-Sign-Up-Authentication-System-HTML-CSS-JavaScript.git
    ```
    _(Replace YOUR-USERNAME with your actual GitHub username)_
 
