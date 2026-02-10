@@ -7,6 +7,15 @@ A beautiful, responsive login and signup page with glassmorphism design, smooth 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+## 🚀 Project Preview
+
+<p align="center">
+  <img src="screenshot.login.png" width="407"/>
+  <img src="screenshot.logout.png" width="410"/>
+</p>
+
+
+---
 ## ✨ Features
 
 - 🎭 **Glassmorphism Design** - Modern frosted glass effect
@@ -313,20 +322,6 @@ If you're stuck or have questions:
 - 📧 Comment on the YouTube video
 - 🐛 Open an issue on GitHub
 - 💡 Check the [Troubleshooting](#troubleshooting) section
-
----
-
-## 📸 Screenshots
-
-### Login View
-
-![Login View](screenshot-login.png)
-
-### Signup View
-
-![Signup View](screenshot-signup.png)
-
-_(Add screenshots by taking pictures of your page and adding them to the project folder)_
 
 ---
 
